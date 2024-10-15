@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif; margin: 20px;">
   <img src="https://avatars.githubusercontent.com/u/185111098?v=4" alt="Profile Photo" width="200" height="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <h1 style="margin-top: 20px;">👋 Hi there, I'm [Your Name]</h1>
+  <h1 style="margin-top: 20px;">👋 Hi there, I'm Batuhan Aramaz</h1>
   <p style="font-size: 1.2em; color: #555;">🚀 Mechatronics Engineering Student | 💻 Developer | 🔒 Cybersecurity Enthusiast</p>
 </div>
 
@@ -43,17 +43,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BatuhanAramaz&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-top: 20px;">
 </div>
 
 ## 📫 How to reach me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="mailto:your.email@example.com" style="margin: 0 10px;"><img src="https://cdn-icons-png.flaticon.com/512/561/561188.png" alt="Email" width="40" height="40"/></a>
-  <a href="https://instagram.com/your-instagram1" target="_blank" style="margin: 0 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://instagram.com/your-instagram2" target="_blank" style="margin: 0 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/batuhan-aramaz-34245a330" target="_blank" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:batuhanaramaz@hotmail.com" style="margin: 0 10px;"><img src="https://cdn-icons-png.flaticon.com/512/561/561188.png" alt="Email" width="40" height="40"/></a>
+  <a href="https://instagram.com/batuhanaramazz" target="_blank" style="margin: 0 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://instagram.com/benveles" target="_blank" style="margin: 0 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/></a>
 </div>
 
 ---
